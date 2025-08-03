@@ -11,11 +11,12 @@
         </a>
       </td>
       <td>
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExandmdm4weXRzdjVid3BzZWs3Z3I3MzVpcmJicWNlMWptYjF4M29hZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding gif" width="300"/>
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWYycXc4bW5keWY5N2piNXYwYXQzbmtncmxlMGdjZW91c211bmdoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" alt="coding gif" width="300"/>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 <h3 align="center">Connect with me:</h3>
