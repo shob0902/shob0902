@@ -17,15 +17,11 @@
   </a>
 
   <!-- GIF Section -->
-  <div style="margin-top: 20px;">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWYycXc4bW5keWY5N2piNXYwYXQzbmtncmxlMGdjZW91c211bmdoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" alt="coding gif" width="300" />
-  </div>
+  <div style="margin-top: 20px;" align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThmNGhtN3R1dTJmMWxxcmoyODR4ZnVrZjJjd2I2Mzg4M2p2MDBqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding gif" width="300" />
 </div>
 
-
-
-
-
+</div>
 
 
 <h3 align="center">Connect with me:</h3>
