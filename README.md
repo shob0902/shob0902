@@ -8,21 +8,23 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shob0902/shob0902/output/pacman-contribution-graph.svg">
   </picture>
 </div>
-<!-- Trophy + GIF Side by Side Centered -->
+
+<!-- Trophies Section -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-trophy.vercel.app/?username=shob0902&column=3&margin-w=15&margin-h=15" alt="shob0902" />
-        </a>
-      </td>
-      <td>
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWYycXc4bW5keWY5N2piNXYwYXQzbmtncmxlMGdjZW91c211bmdoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" alt="coding gif" width="300"/>
-      </td>
-    </tr>
-  </table>
+  <!-- Trophies Section in One Line -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shob0902&column=8&margin-w=10&margin-h=15" alt="shob0902" />
+  </a>
+
+  <!-- GIF Section -->
+  <div style="margin-top: 20px;">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWYycXc4bW5keWY5N2piNXYwYXQzbmtncmxlMGdjZW91c211bmdoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" alt="coding gif" width="300" />
+  </div>
 </div>
+
+
+
+
 
 
 
