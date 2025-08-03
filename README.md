@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shobhit Shourya</h1>
 <h3 align="center">Aspiring Software Developer | Java & Python Enthusiast</h3>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shob0902/shob0902/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shob0902/shob0902/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shob0902/shob0902/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 <!-- Trophy + GIF Side by Side Centered -->
 <div align="center">
   <table>
@@ -32,13 +39,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shob0902&show_icons=true&locale=en&layout=compact" alt="shob0902" /></p>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shob0902/shob0902/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shob0902/shob0902/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shob0902/shob0902/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+
 
 
 
