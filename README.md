@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 78px;">Shobhit Shourya</h1>
 <h3 align="center">Aspiring Software Developer | Java & Python Enthusiast</h3>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shob0902&label=Profile%20views&color=0e75b6&style=flat" alt="shob0902" /> </p>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shob0902/shob0902/output/pacman-contribution-graph-dark.svg">
