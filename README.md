@@ -94,7 +94,7 @@
 
 <!-- Thank You Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=5EB4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=5EB4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect" />
 </p>
 
 <p align="center">
