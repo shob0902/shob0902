@@ -1,5 +1,11 @@
-<h1 align="center" style="font-size: 78px;">Shobhit Shourya</h1>
-<h3 align="center">Aspiring Software Developer | Java & Python Enthusiast</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5EB4FF&height=200&section=header&text=Welcome%20To%20My%20GitHub!&fontColor=ffffff&fontSize=35&fontAlign=40" />
+</p>
+
+<!-- Typing Intro Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Shobhit+Shourya;Aspiring+Software+Developer+|+Java+and+Python+Enthusiast;&center=true&width=1000&height=50&color=5EB4FF&font=Fira%20Code&size=22&pause=1000">
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shob0902&label=Profile%20views&color=0e75b6&style=flat" alt="shob0902" /> </p>
 <div align="center">
   <picture>
@@ -86,7 +92,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shob0902&show_icons=true&locale=en&layout=compact" alt="shob0902" />
 </p>
 
+<!-- Thank You Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=5EB4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+%F0%9F%91%8B" />
+</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5EB4FF&height=100&section=footer" />
+</p>
 
 
 
