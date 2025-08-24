@@ -16,11 +16,11 @@
 </div>
 
 <!-- Trophies Section -->
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=shob0902&column=3&margin-w=15&margin-h=15&title=Commits,Repositories,Stars" alt="GitHub Trophies for shob0902" />
   </a>
-</p>
+</p>-->
 
  <!-- GIF Section -->
 <div align="center" style="margin-top: 20px;">
