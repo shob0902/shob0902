@@ -24,8 +24,12 @@
 
 
  <!-- GIF Section -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThmNGhtN3R1dTJmMWxxcmoyODR4ZnVrZjJjd2I2Mzg4M2p2MDBqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding gif" style="max-width: 100%; width: 500px;" />
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzEybnNhZmJlcHJnMTB4N2kzd3Q4ZTNiY2FrdWNsbWI5N2ptbTl6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" alt="Funny GIF">
+</div>
+
+
+
 </div>
 
 
