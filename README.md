@@ -7,11 +7,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Shobhit+Shourya;Aspiring+Software+Developer+|+Java+and+Python+Enthusiast;&center=true&width=1000&height=50&color=5EB4FF&font=Fira%20Code&size=22&pause=1000">
 </p>
 <!-- Trophies Section -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=shob0902&column=3&margin-w=15&margin-h=15&title=Commits,Repositories,Stars" alt="GitHub Trophies for shob0902" />
   </a>
-</p>
+</p> -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shob0902&label=Profile%20views&color=0e75b6&style=flat" alt="shob0902" /> </p>
 <div align="center">
