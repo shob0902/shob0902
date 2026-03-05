@@ -87,15 +87,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
 </p>
 
-
-
-
-
-<!-- GitHub Top Languages Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shob0902&show_icons=true&locale=en&layout=compact" alt="shob0902" />
-</p>
-
 <!-- Thank You Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=5EB4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect" />
