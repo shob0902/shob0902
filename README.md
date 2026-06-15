@@ -1,103 +1,106 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5EB4FF&height=200&section=header&text=Welcome%20To%20My%20GitHub!&fontColor=ffffff&fontSize=35&fontAlign=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EB4FF,100:a78bfa&height=220&section=header&text=Shobhit%20Shourya&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=38&desc=Software%20Developer%20%7C%20ML%20Enthusiast%20%7C%20VIT%20Vellore&descAlignY=58&descSize=16&animation=fadeIn" />
 </p>
 
-<!-- Typing Intro Text -->
+<!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Shobhit+Shourya;Aspiring+Software+Developer+|+Java+and+Python+Enthusiast;&center=true&width=1000&height=50&color=5EB4FF&font=Fira%20Code&size=22&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Shobhit;Aspiring+Software+Developer;Java+%26+Python+Enthusiast;Building+cool+stuff+with+AI;Open+to+Opportunities!&center=true&width=600&height=55&color=5EB4FF&font=Fira%20Code&size=20&pause=800&duration=3000" />
 </p>
-<!-- Trophies Section -->
-<!-- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shob0902&column=3&margin-w=15&margin-h=15&title=Commits,Repositories,Stars" alt="GitHub Trophies for shob0902" />
-  </a>
-</p> -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shob0902&label=Profile%20views&color=0e75b6&style=flat" alt="shob0902" /> </p>
+<!-- Profile Views + Followers -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shob0902&label=Profile%20Views&color=5EB4FF&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/shob0902?label=Followers&style=for-the-badge&color=a78bfa&labelColor=1a1f35" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-4ade80?style=for-the-badge&labelColor=1a3a2a" />
+</p>
+
+<!-- Snake / Contribution Graph -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shob0902/shob0902/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shob0902/shob0902/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shob0902/shob0902/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/shob0902/shob0902/output/pacman-contribution-graph.svg" width="100%" />
   </picture>
 </div>
 
-
- <!-- GIF Section -->
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzEybnNhZmJlcHJnMTB4N2kzd3Q4ZTNiY2FrdWNsbWI5N2ptbTl6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" alt="Funny GIF">
-</div>
+---
 
 
+---
 
-</div>
+## 📊 GitHub Stats
 
-
-</div>
-
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/shobhit-shourya-35b3a8248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shobhit-shourya-35b3a8248/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/shobhitshourya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shobhitshourya/" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools</h3>
-
-<h4 align="center">🧑‍💻 Programming Languages</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-</p>
-
-<h4 align="center">🌐 Web Technologies</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-</p>
-
-<h4 align="center">📦 Libraries & Frameworks</h4>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text.png" alt="OpenCV" width="40" height="40"/>
-</p>
-
-<h4 align="center">☁️ CI/CD, Cloud, & Databases</h4>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-</p>
-
-<h4 align="center">🎨 Design & Other Tools</h4>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-</p>
-
-<!-- Thank You Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=5EB4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=shob0902&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5EB4FF&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" width="49%" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shob0902&theme=tokyonight&hide_border=true&background=0d1117&stroke=21262d&ring=5EB4FF&fire=f59e0b&currStreakLabel=5EB4FF&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5EB4FF&height=100&section=footer" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shob0902&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5EB4FF&text_color=c9d1d9&langs_count=8" width="38%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shob0902&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=5EB4FF&line=a78bfa&point=4ade80&area=true&area_color=5EB4FF" width="59%" />
 </p>
 
+## 🛠️ Languages & Tools
 
+### 🧑‍💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript&theme=dark" />
+</p>
 
+### 🌐 Web Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,css,html&theme=dark" />
+  &nbsp;
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" />
+</p>
 
+### 🤖 ML / AI Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="44" height="44" />
+  &nbsp;
+  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text.png" alt="OpenCV" width="44" height="44" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="44" height="44" />
+  &nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="44" height="44" />
+</p>
 
+### ☁️ Cloud, Databases & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,firebase,mongodb,mysql,docker,redis&theme=dark" />
+</p>
 
+### 🎨 Design & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,git,linux&theme=dark" />
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="44" height="44" />
+</p>
+
+## 📈 Contribution Heatmap
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/5EB4FF/shob0902" alt="GitHub Contribution Chart" width="100%" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shobhit-shourya-35b3a8248/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Shobhit%20Shourya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=1a3a5c&labelColor=0077B5" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/shobhitshourya/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-shobhitshourya-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&color=3a2a1a&labelColor=FFA116" />
+  </a>
+  &nbsp;
+  <a href="mailto:shobhitshourya@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=3a1a1a&labelColor=EA4335" />
+  </a>
+</p>
