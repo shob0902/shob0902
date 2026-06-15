@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EB4FF,100:a78bfa&height=220&section=header&text=Shobhit%20Shourya&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=38&desc=Software%20Developer%20%7C%20ML%20Enthusiast%20%7C%20VIT%20Vellore&descAlignY=58&descSize=16&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EB4FF,100:a78bfa&height=220&section=header&text=Shobhit%20Shourya&fontColor=ffffff&fontSize=42&fontAlign=50&fontAlignY=38&desc=Software%20Developer%20%7C%20ML%20Enthusiast%20%7C%20VIT%20Vellore%20%7C%20Data%20Scientist%20%40%20Syngene%20International%20Ltd&descAlignY=58&descSize=14&animation=fadeIn" />
 </p>
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Shobhit;Aspiring+Software+Developer;Java+%26+Python+Enthusiast;Building+cool+stuff+with+AI;Open+to+Opportunities!&center=true&width=600&height=55&color=5EB4FF&font=Fira%20Code&size=20&pause=800&duration=3000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I%27m+Shobhit;Aspiring+Software+Developer+%26+Data+Scientist;Python+Enthusiast;Building+cool+stuff+with+AI;Open+to+Opportunities!&center=true&width=600&height=55&color=5EB4FF&font=Fira%20Code&size=20&pause=800&duration=3000" />
 </p>
 
 <!-- Profile Views + Followers -->
