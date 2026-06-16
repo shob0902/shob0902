@@ -11,8 +11,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shob0902&label=Profile%20Views&color=5EB4FF&style=for-the-badge" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/shob0902?label=Followers&style=for-the-badge&color=a78bfa&labelColor=1a1f35" />
-  &nbsp;
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-4ade80?style=for-the-badge&labelColor=1a3a2a" />
 </p>
 
