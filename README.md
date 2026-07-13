@@ -30,13 +30,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=shob0902&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5EB4FF&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" width="49%" /> -->
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=shob0902&theme=tokyonight&hide_border=true&background=0d1117&stroke=21262d&ring=5EB4FF&fire=f59e0b&currStreakLabel=5EB4FF&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" width="49%" /> -->
-</p>
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shob0902&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5EB4FF&text_color=c9d1d9&langs_count=8" width="38%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shob0902&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5EB4FF&text_color=c9d1d9&langs_count=8" width="38%" /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shob0902&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=5EB4FF&line=a78bfa&point=4ade80&area=true&area_color=5EB4FF" width="59%" />
 </p>
 
