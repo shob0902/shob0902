@@ -132,7 +132,6 @@ With hands-on experience in machine learning research and full-stack development
 
 **Bachelor of Technology in Computer Science**
 - **Institution**: VIT Vellore (2022-2026)
-- **CGPA**: 7.75/10
 - **Focus**: Machine Learning, Data Science, Software Development
 
 ---
