@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science graduate from VIT Vellore** (2022-2026, CGPA: 7.75) passionate about solving complex problems through software engineering and machine learning. Currently based in **Bangalore**, I specialize in building scalable AI/ML solutions, backend systems, and MLOps pipelines.
+I'm a **Computer Science graduate from VIT Vellore** passionate about solving complex problems through software engineering and machine learning. Currently based in **Bangalore**, I specialize in building scalable AI/ML solutions, backend systems, and MLOps pipelines.
 
 With hands-on experience in machine learning research and full-stack development, I'm committed to writing clean, efficient code and staying at the forefront of AI innovations. I thrive in collaborative environments and love contributing to open-source projects.
 
